@@ -1,0 +1,15 @@
+li:hover {
+	background: red;
+}
+
+.photos {
+	height:20vh;
+	width:20vw;
+}
+.nav ul{
+	list-style: none;
+}
+.nav li{
+
+	display: inline;
+}
